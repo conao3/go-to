@@ -21,6 +21,8 @@
 * Description
 Transform data format *to* any format!
 
+Run localy command written in golang inspired by [[https://github.com/ritz078/transform][ritz078/transform]].
+
 * Install
 
 * Usage
